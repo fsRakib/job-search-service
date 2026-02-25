@@ -1,0 +1,6 @@
+elasticsearch:
+  url: http://localhost:9200
+  index: jobs
+
+server:
+  port: 50051
